@@ -1,0 +1,3 @@
+original-maps-dir: s1_original_maps
+editable-maps-dir: s2_editable_maps
+final-maps-dir: s3_final_maps
