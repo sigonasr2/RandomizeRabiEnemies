@@ -1,0 +1,1 @@
+java -jar .\RandomizeRabiEnemies.jar area*.json
